@@ -13,7 +13,6 @@
 		1410E666222C788C001207C8 /* PseudoTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1410E665222C788C001207C8 /* PseudoTextView.swift */; };
 		1410E668222C80AD001207C8 /* EntryCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1410E667222C80AD001207C8 /* EntryCellView.swift */; };
 		1410E66A222C821A001207C8 /* Entry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1410E669222C821A001207C8 /* Entry.swift */; };
-		1410E66C222C9D4B001207C8 /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1410E66B222C9D4B001207C8 /* TextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,7 +25,6 @@
 		1410E665222C788C001207C8 /* PseudoTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PseudoTextView.swift; sourceTree = "<group>"; };
 		1410E667222C80AD001207C8 /* EntryCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntryCellView.swift; sourceTree = "<group>"; };
 		1410E669222C821A001207C8 /* Entry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Entry.swift; sourceTree = "<group>"; };
-		1410E66B222C9D4B001207C8 /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +59,6 @@
 			children = (
 				1410E64F222891EF001207C8 /* AppDelegate.swift */,
 				1410E669222C821A001207C8 /* Entry.swift */,
-				1410E66B222C9D4B001207C8 /* TextView.swift */,
 				1410E651222891F1001207C8 /* Assets.xcassets */,
 				1410E653222891F1001207C8 /* MainMenu.xib */,
 				1410E665222C788C001207C8 /* PseudoTextView.swift */,
@@ -146,7 +143,6 @@
 				1410E650222891EF001207C8 /* AppDelegate.swift in Sources */,
 				1410E666222C788C001207C8 /* PseudoTextView.swift in Sources */,
 				1410E668222C80AD001207C8 /* EntryCellView.swift in Sources */,
-				1410E66C222C9D4B001207C8 /* TextView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
